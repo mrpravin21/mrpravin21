@@ -2,9 +2,9 @@
 <h3 align="center">Final-year IT Engineering Student | Full-Stack Developer | Curious Builder 🚀</h3>
 
 <p align="center">
-  <a href="https://pravinbhatta.netlify.app">🌐 Portfolio</a> •
-  <a href="https://github.com/mrpravin21">💻 GitHub</a> •
-  <a href="https://linkedin.com/in/pravin-bhatta-5b4637215">💼 LinkedIn</a>
+  <a href="https://pravinbhatta.netlify.app" target="_blank">🌐 Portfolio</a> •
+  <a href="https://github.com/mrpravin21" target="_blank">💻 GitHub</a> •
+  <a href="https://linkedin.com/in/pravin-bhatta-5b4637215" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
